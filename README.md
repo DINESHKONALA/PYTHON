@@ -38,7 +38,7 @@ Welcome to the **Python Tutorial for Beginners**! This tutorial is designed to h
 - Real-time examples (e.g., student data management)
 
 ---
-
+We are still managing these files here, our file structure
 ## 📂 Folder Structure
 
 ```bash
