@@ -2,3 +2,7 @@ pip install pandas
 pip install seaborn
 pip install matplotlib
 pip install nltk
+pip install opencv-python
+pip install opencv-python-headless
+pip install requests
+pip install beautifulsoup4
